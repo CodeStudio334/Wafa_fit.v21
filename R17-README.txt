@@ -1,0 +1,1 @@
+WAFA FIT R17 — iPhone standalone dock rebuild. Upload the contents of this ZIP to GitHub Pages. Test from a new Home Screen icon to avoid old iOS standalone caches. User data is stored locally in the browser/app origin; deleting the app may delete data.
